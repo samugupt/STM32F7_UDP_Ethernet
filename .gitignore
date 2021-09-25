@@ -1,0 +1,6 @@
+# stm32 UDP Ethernet
+# 1. stm32f74_UDP_Interface
+/src/stm32f74_udp_ethernet/*
+!/src/stm32f74_udp_ethernet/Core/
+/src/stm32f74_udp_ethernet/Core/Startup/
+!/src/stm32f74_udp_ethernet/*.ioc
